@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment files
+.env
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Databases
+*.sqlite3
+*.db
+
+# Testing & Coverage
+.mypy_cache/
+.pytest_cache/
+.coverage
+.cache/
+htmlcov/
+
+# Pydantic (v2)
+__pydantic__/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
